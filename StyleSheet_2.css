@@ -1,0 +1,125 @@
+.Form_card{
+    background-color: none;
+    float: left;
+  }
+
+
+  .button_forMore{
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+  }
+  
+  .button_forMore:hover,
+  .button_forMore:focus {
+    background-color: #b3d3ea;
+    color: #2c5777;
+  }
+  
+  
+  .text-black {
+    color: rgba(0,0,0,0.9);
+  }
+  .text-muted {
+    color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .text-uppercase {
+    text-transform: uppercase;
+  }
+  .ff-serif {
+    font-family: 'Lora', serif;
+  }
+  
+  .font-weight-normal {
+    font-weight: normal;
+  }
+  .font-weight-medium {
+    font-weight: 500;
+  }
+  
+   .lts-1px {
+     letter-spacing: 1px;
+  }
+  .lts-2px {
+    letter-spacing: 2px;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  .text-left {
+    text-align: left;
+  }
+  .text-right {
+    text-align: right;
+  }
+  
+  .d-block {
+    display: block;
+  }
+  .d-inline-block {
+    display: inline-block;
+  }
+  
+  .p-relative {
+    position: relative;
+  }
+  .p-absolute {
+    position: absolute
+  }
+  
+  .bg-white {
+    background-color: #fff;
+  }
+  
+  .small {
+    font-size: 0.75rem;
+  }
+  .card-heading {
+    font-size: 25px;
+  }
+  .styled-link {
+    text-decoration: none;
+    outline: none;
+    color: #5885af;
+    transition: all 0.25s ease-in; 
+  }
+  .styled-link:hover,
+  .styled-link:focus,
+  .styled-link:active {
+    color: #536dfe;
+  }
+  .shadow-1 {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.15);
+  }
+  .blue-hover {
+    transition: all 0.25s ease-in;
+    border-bottom: 5px solid transparent;
+  }
+  .blue-hover:hover {
+    transform: translateY(-5px);
+    border: none;
+    border-bottom: 5px solid #5885af;
+  }
+  

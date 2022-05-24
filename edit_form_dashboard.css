@@ -1,0 +1,40 @@
+.EditProfileForm{
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 2%;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  h4 {
+    display: inline-block;
+  }
+  
+  .col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+    margin-left: 4%;
+  }
+  
+  .col-60 {
+    float: left;
+    width: 60%;
+    margin-top: 6px;
+    margin-left: 2%;
+  }
+
+  .container {
+    border-radius: 5px;
+    padding: 20px;
+  }
